@@ -1,0 +1,9 @@
+[
+    {
+        "name":"sword",
+        "att":9,
+        "def":2,
+        "range":0,
+        "radius":0
+    }
+]
