@@ -1,0 +1,63 @@
+# Local non-PROG2 folders
+API/
+Magica 2/
+Magica.zip
+PS_2/z2_testing/scripts_and_extra/
+
+# Build outputs
+build/
+.test-build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled binaries and debug output
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.dSYM/
+a.out
+debug
+test
+tmp_output
+tmp_output.txt
+output.txt
+
+# Assignment binaries
+PS_1/z1
+PS_2/z2
+PS_3/z3
+PS_4/z4
+PS_4/test_z4
+PS_5/z5
+PS_5/test
+
+# Large local/generated test assets
+PS_2/z2_testing/mnist-png/
+PS_2/z2_testing/mnist-txt/
+
+# Assignment PDFs and archives
+*.pdf
+*.zip
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
